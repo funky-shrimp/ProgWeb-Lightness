@@ -21,5 +21,9 @@
   },
   "devDependencies": {
     "vite": "^6.0.11"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "notyf": "^3.10.0"
   }
 }
